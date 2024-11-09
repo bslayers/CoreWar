@@ -203,3 +203,18 @@ informations en plus telles que le nombres de processus qui fut créer, détruit
 de temps à durer la partie par exemple.
 Mais néanmoins nous restons satisfait du résultat, des efforts apporté au projet Core War
 tout au long de ce semestre.
+
+### Source
+
+- https://www.unicaen.fr/universite/decouvrir/logo-unicaen-usages/
+- https://en.wikipedia.org/wiki/Core_War
+- https://fr.wikipedia.org/wiki/Core_War
+- https://corewar.co.uk/standards/icws88.txt
+- https://corewar.co.uk/perry/evolution.htm
+- https://vyznev.net/corewar/guide.html
+- http://nicolab.chez.com/corewar/cw_exemples.htm#guerriers_idx
+- https://corewar.co.uk/standards/cwg.txt
+- https://en.wikipedia.org/wiki/A._K._Dewdney
+- https://zestedesavoir.com/tutoriels/274/les-tests-unitaires-en-java/
+- https://sebsauvage.net/comprendre/corewars/index.html
+- https://fr.wikipedia.org/wiki/Algorithme_g%C3%A9n%C3%A9tique
